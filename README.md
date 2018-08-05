@@ -1,4 +1,4 @@
-# hhr-recruiting-service
+# bonify-type-identifier-service
 
 ### Challenge
 
